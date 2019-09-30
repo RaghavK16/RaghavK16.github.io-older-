@@ -6,8 +6,8 @@ body {
   -o-background-size: cover;
 }
 
-#demobox {
-  background-color: #cfc ;
+#thebox {
+  background-color: #5E6275 ;
   padding: 10px ;
-  border: 1px solid green ;
+  border: 1px solid blue ;
 }
